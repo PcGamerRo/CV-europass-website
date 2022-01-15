@@ -1,0 +1,21 @@
+body, html{
+	font-family: helvetica;
+	width: 100%;		
+	height: 2000px;
+	zoom: 53%;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
+    margin-bottom: -50px
+}
+
+div.text_1{
+	color:#3256a8;
+	font-size: 50px;
+}
+
+div.text_2{
+	color: black;
+	font-size: 50px;
+}
